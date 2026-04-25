@@ -5,3 +5,7 @@ add_sum(2, 3)
 def sub(a, b):
     return a - b
 sub(2, 3)
+
+def mul(a, b):
+    return a * b
+mul(2, 3)
